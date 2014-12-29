@@ -1,0 +1,19 @@
+{
+  "name": "majorminorjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hectorups/majorminorjs.git"
+  },
+  "author": "Hector Monserrate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hectorups/majorminorjs/issues"
+  },
+  "homepage": "https://github.com/hectorups/majorminorjs"
+}
